@@ -67,7 +67,7 @@ export default class NewArrival extends Component {
             <i className='fa fa-angle-right'></i>
           </a>
         </h5>
-        <p className='text-center section-sub-title'>Some Of Our Exclusive Collection, You May Like</p>
+        <p className='text-center section-sub-title'>Some Of Our Exclusive Collection, You May Like This Items</p>
         
         <Slider ref={c=>(this.slider=c)} {...settings}>
           <div>
